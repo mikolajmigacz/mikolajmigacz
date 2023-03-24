@@ -16,7 +16,7 @@
 I am a Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
 
 - 🔭 I’m looking for a job as a Developer.
-- 🌱 I'm 4th year student of Information Science.
+- 🌱 I'm a first-year student of a Master's in Information Science.
 - ⚡ I spend my free time learning next goals (below).
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-mikolajmigacz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miko%C5%82aj-migacz-1111951ba/)
 
@@ -42,6 +42,6 @@ I am a Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
   
 ### 🎯 &nbsp;Next Goals :
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   
 </p>
